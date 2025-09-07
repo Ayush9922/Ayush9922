@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats (Auto-Updating)
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush9922&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush9922&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -42,7 +42,7 @@
 ### 🏆 GitHub Trophies (Auto-Updating)
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ayush9922&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -51,7 +51,7 @@
 ### 🔥 Contribution Streak (Auto-Updating)
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayush9922&theme=tokyonight&hide_border=true)
 
 </div>
 
