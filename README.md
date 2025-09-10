@@ -5,7 +5,8 @@
 </h1>
 
 <a href="https://github.com/ayush9922">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=26&center=true&vCenter=true&width=600&height=100&speed=50&pause=200&lines=Software+Developer;AI+%26+Data+Enthusiast;Lifelong+Learner;Passionate+about+Coding;Always+Learning+New+Things" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=26&center=true&vCenter=true&width=600&height=100&speed=50&pause=200&lines=Software+Developer;Full+Stack+Developer;AI+%26+Data+Enthusiast;Lifelong+Learner;Passionate+about+Coding;Always+Learning+New+Things" />
+
 </a>
 
 </div>
