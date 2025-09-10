@@ -115,11 +115,21 @@
 </h1>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=ayush9922&theme=tokyonight_duo" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=ayush9922&show_icons=true&count_private=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush9922&layout=compact&theme=tokyonight" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=ayush9922&theme=tokyonight_duo" />
+
+  <!-- Spacing -->
+  <p></p>
+
+  <!-- GitHub Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush9922&show_icons=true&count_private=true&theme=tokyonight" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush9922&layout=compact&theme=tokyonight" />
+
 </div>
+
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
