@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=plastic&logo=quora&logoColor=white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/mr._ayush0000/?hl=en" target="blank">
+<a href="https://www.instagram.com/ayushyadavv7/?hl=en" target="blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" />
 </a>
 
